@@ -16,6 +16,7 @@ sudo chmod +x qwiklab_explorers_gsp1246.sh
 
 ./qwiklab_explorers_gsp1246.sh
 ```
+- Download file from [Here](raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-Python-Notebooks-GSP1249/refs/heads/main/qwiklabexplorersgsp1249.ipynb)
 
 ---
 

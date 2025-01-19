@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-SQL-GSP1246/refs/heads/main/qwiklab_explorers_gsp1246.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-Python-Notebooks-GSP1249/refs/heads/main/qwiklab_explorers_gsp1249.sh
 
-sudo chmod +x qwiklab_explorers_gsp1246.sh
+sudo chmod +x qwiklab_explorers_gsp1249.sh
 
-./qwiklab_explorers_gsp1246.sh
+./qwiklab_explorers_gsp1249.sh
 ```
 - Download file from [Here](raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-Python-Notebooks-GSP1249/refs/heads/main/qwiklabexplorersgsp1249.ipynb)
 

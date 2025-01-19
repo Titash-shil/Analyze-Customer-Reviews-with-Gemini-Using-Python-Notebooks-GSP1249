@@ -24,7 +24,7 @@ sudo chmod +x qwiklab_explorers_gsp1249.sh
 
 ## *Well done..!* 👏
 
-## Thank you for visiting.... :) 🗯️
+## Thank you for visiting... :) 🗯️
 
 ## [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
 
